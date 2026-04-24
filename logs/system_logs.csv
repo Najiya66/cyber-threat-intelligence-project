@@ -1,0 +1,6 @@
+event_id,event_type,severity
+1,login_failed,medium
+2,malware_detected,high
+3,firewall_block,low
+4,login_success,low
+5,brute_force_detected,high
